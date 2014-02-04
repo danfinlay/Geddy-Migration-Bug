@@ -1,0 +1,12 @@
+{
+  "name": "geddyTest1",
+  "version": "0.0.1",
+  "author": "",
+  "dependencies": {
+    "pg": "2.5.x"
+  },
+  "devDependencies": {},
+  "engines": {
+    "node": "0.8.x"
+  }
+}
